@@ -1,0 +1,1 @@
+const service_gouk = <T>(args: T): T => { return args; };
