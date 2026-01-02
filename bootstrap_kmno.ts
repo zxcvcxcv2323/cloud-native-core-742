@@ -1,0 +1,1 @@
+const service_kmno = <T>(args: T): T => { return args; };
